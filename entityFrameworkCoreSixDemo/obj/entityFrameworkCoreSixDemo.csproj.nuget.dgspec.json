@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\others\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo.csproj": {}
+    "C:\\Users\\mashi\\Source\\Repos\\EntityFrameworkCoreConfigInConsoleApp\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo.csproj": {}
   },
   "projects": {
-    "E:\\others\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo.csproj": {
+    "C:\\Users\\mashi\\Source\\Repos\\EntityFrameworkCoreConfigInConsoleApp\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\others\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo.csproj",
+        "projectUniqueName": "C:\\Users\\mashi\\Source\\Repos\\EntityFrameworkCoreConfigInConsoleApp\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo.csproj",
         "projectName": "entityFrameworkCoreSixDemo",
-        "projectPath": "E:\\others\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo.csproj",
+        "projectPath": "C:\\Users\\mashi\\Source\\Repos\\EntityFrameworkCoreConfigInConsoleApp\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo.csproj",
         "packagesPath": "C:\\Users\\mashi\\.nuget\\packages\\",
-        "outputPath": "E:\\others\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo\\obj\\",
+        "outputPath": "C:\\Users\\mashi\\Source\\Repos\\EntityFrameworkCoreConfigInConsoleApp\\entityFrameworkCoreSixDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mashi\\AppData\\Roaming\\NuGet\\NuGet.Config",

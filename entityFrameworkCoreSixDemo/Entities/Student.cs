@@ -16,5 +16,6 @@ namespace entityFrameworkCoreSixDemo.Entities
         public string FirstName { get; set; }
 
         public int age { get; set; }
+        public string  gender { get; set; }
     }
 }

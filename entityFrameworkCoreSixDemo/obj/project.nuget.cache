@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pUQEXtaxgkC9P5O0QlruTeTHbYh0f23tl7USUOMuptmImyPK7PTbZQoG5htjtFWif2+UP5BH0KuxZcv2TYR2xg==",
+  "dgSpecHash": "UZmWbzN07XErrRnzAmGKGkP47c4vSsaVNdW2uVvC7uqlmjAybW6Gj/CDXjeRdNDRGQ7zARR1fvs/DOwvEw0ZqQ==",
   "success": true,
-  "projectFilePath": "E:\\others\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo.csproj",
+  "projectFilePath": "C:\\Users\\mashi\\Source\\Repos\\EntityFrameworkCoreConfigInConsoleApp\\entityFrameworkCoreSixDemo\\entityFrameworkCoreSixDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mashi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mashi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
